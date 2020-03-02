@@ -19,3 +19,8 @@ pip install django
 # check django version installed in your system
 python3 -m django --version
 ```
+
+Create Django project
+```
+django-admin startproject mysite
+```
