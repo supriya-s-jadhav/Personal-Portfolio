@@ -24,3 +24,32 @@ Create Django project
 ```
 django-admin startproject mysite
 ```
+
+Create a Portfolio app
+```
+# cd into mysite directory, you will see manage.py file
+python3 manage.py startapp portfolio
+```
+
+Create Model and Register your app
+```
+# define models in your application. In our project, we will define models in file located in::
+# mysite/portfolio/models.py file
+
+# Register your app in settings file in your project. In our project, we will register portfolio app in setting file located in:
+# mysite/mysite/settings.py
+```
+
+Install libraries to work with image uploading in your app.
+note: You can skip this step if you are not going to work with images.
+```
+pip install pillow
+```
+
+Make migrations
+```
+# Run migrations command to create migrations for above changes
+python3 manage.py makemigrations portfolio
+
+python3 manage.py migrate
+```
