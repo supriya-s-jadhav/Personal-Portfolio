@@ -31,6 +31,12 @@ Create a Portfolio app
 python3 manage.py startapp portfolio
 ```
 
+Run your development server
+```
+python3 manage.py runserver
+```
+
+
 Create Model and Register your app
 ```
 # define models in your application. In our project, we will define models in file located in::
