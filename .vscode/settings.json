@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "venv_portfolio/bin/python3",
+    "git.ignoreLimitWarning": true
+}
