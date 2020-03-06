@@ -59,3 +59,11 @@ python3 manage.py makemigrations portfolio
 
 python3 manage.py migrate
 ```
+
+# How to install the Bootstrap theme in your django app
+
+1. Visit [startbootstrap site](https://startbootstrap.com/), select the theme you like for your project and download the zip file.
+3. Go to the downloaded folder and unzip the bootstrap theme you just downloaded.
+2. Create a new directory in your django project called 'static/'. Copy the files from the unzipped theme directory to the static directory you just created in your django project: css/, fonts/, js/, img/, scss/ vendor.
+3. Create a new folder in your django directory called 'templates/'. Copy the index.html file from unzipped theme directory to the templates directory you just created.
+
