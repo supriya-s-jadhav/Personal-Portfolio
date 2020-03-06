@@ -15,22 +15,22 @@ If you want to learn and develop a basic web application using Django, please re
 # Demo web-application view developed using bootstrap theme with django
 
 1. Demo-Portfolio Home page
-[home](https://github.com/supriya-s-jadhav/Personal-Portfolio/blob/master/website-view/portfolio-home.png)
+![home](https://github.com/supriya-s-jadhav/Personal-Portfolio/blob/master/website-view/portfolio-home.png)
 
 2. Demo-Portfolio About page
-[about](https://github.com/supriya-s-jadhav/Personal-Portfolio/blob/master/website-view/portfolio-about.png)
+![about](https://github.com/supriya-s-jadhav/Personal-Portfolio/blob/master/website-view/portfolio-about.png)
 
 3. Demo-portfolio Skills and background page
-[skills](https://github.com/supriya-s-jadhav/Personal-Portfolio/blob/master/website-view/portfolio-skills.png)
+![skills](https://github.com/supriya-s-jadhav/Personal-Portfolio/blob/master/website-view/portfolio-skills.png)
 
 4. Demo-portfolio Listing projects page
-[project](https://github.com/supriya-s-jadhav/Personal-Portfolio/blob/master/website-view/portfolio:projects.png)
+![project](https://github.com/supriya-s-jadhav/Personal-Portfolio/blob/master/website-view/portfolio:projects.png)
 
 5. Demo-portfolio contact page
-[contact](https://github.com/supriya-s-jadhav/Personal-Portfolio/blob/master/website-view/portfolio:contact.png)
+![contact](https://github.com/supriya-s-jadhav/Personal-Portfolio/blob/master/website-view/portfolio:contact.png)
 
 6. Demo-portfolio administrator page
-[admin](https://github.com/supriya-s-jadhav/Personal-Portfolio/blob/master/website-view/portfolio:admin.png)
+![admin](https://github.com/supriya-s-jadhav/Personal-Portfolio/blob/master/website-view/portfolio:admin.png)
 
 # Reference links
 
