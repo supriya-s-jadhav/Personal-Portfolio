@@ -17,6 +17,9 @@ If you want to learn and develop a basic web application using Django, please re
 3. [BootStrap themes](https://startbootstrap.com/)
 
 
+<div class="name-area wow fadeInDown" data-wow-delay="0.2s">A full time learner, working with data and questing after information. Data Scientist by profession </div>
+
+
 
 
 
