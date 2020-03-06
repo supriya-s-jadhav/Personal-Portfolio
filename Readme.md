@@ -27,7 +27,7 @@ If you want to learn and develop a basic web application using Django, please re
 ![project](https://github.com/supriya-s-jadhav/Personal-Portfolio/blob/master/website-view/portfolio:projects.png)
 
 5. Demo-portfolio contact page
-![contact](https://github.com/supriya-s-jadhav/Personal-Portfolio/blob/master/website-view/portfolio:contact.png)
+![contact](https://github.com/supriya-s-jadhav/Personal-Portfolio/blob/master/website-view/portfolio:contact-updated.png)
 
 6. Demo-portfolio administrator page
 ![admin](https://github.com/supriya-s-jadhav/Personal-Portfolio/blob/master/website-view/portfolio:admin.png)
